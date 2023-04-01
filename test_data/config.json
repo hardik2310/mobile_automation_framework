@@ -1,0 +1,9 @@
+{
+  "server": "http://localhost:",
+  "port": "4723",
+  "device": "local",
+  "platformName": "android",
+  "deviceName": "Pixel 4 API 33",
+  "cameraApp": "com.android.camera2",
+  "settingApp": "com.android.settings"
+}
