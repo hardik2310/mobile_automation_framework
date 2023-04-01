@@ -5,8 +5,6 @@ from appium.webdriver.appium_service import AppiumService
 
 from utilities import read_utils
 
-"""It is not working."""
-
 
 @pytest.fixture(scope = "session", autouse = True)
 def start_appium_server():
